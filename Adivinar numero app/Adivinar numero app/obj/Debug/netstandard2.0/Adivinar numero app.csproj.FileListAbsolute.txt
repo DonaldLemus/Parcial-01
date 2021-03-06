@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\Adivinar numero app\Adivinar numero app\Adivinar numero app\bin\Debug\netstandard2.0\Adivinar numero app.deps.json
+C:\Users\ASUS\source\repos\Adivinar numero app\Adivinar numero app\Adivinar numero app\bin\Debug\netstandard2.0\Adivinar numero app.dll
+C:\Users\ASUS\source\repos\Adivinar numero app\Adivinar numero app\Adivinar numero app\bin\Debug\netstandard2.0\ref\Adivinar numero app.dll
+C:\Users\ASUS\source\repos\Adivinar numero app\Adivinar numero app\Adivinar numero app\bin\Debug\netstandard2.0\Adivinar numero app.pdb
+C:\Users\ASUS\source\repos\Adivinar numero app\Adivinar numero app\Adivinar numero app\obj\Debug\netstandard2.0\Adivinar numero app.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Adivinar numero app\Adivinar numero app\Adivinar numero app\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ASUS\source\repos\Adivinar numero app\Adivinar numero app\Adivinar numero app\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ASUS\source\repos\Adivinar numero app\Adivinar numero app\Adivinar numero app\obj\Debug\netstandard2.0\Adivinar numero app.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Adivinar numero app\Adivinar numero app\Adivinar numero app\obj\Debug\netstandard2.0\Adivinar numero app.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Adivinar numero app\Adivinar numero app\Adivinar numero app\obj\Debug\netstandard2.0\Adivinar numero app.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Adivinar numero app\Adivinar numero app\Adivinar numero app\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ASUS\source\repos\Adivinar numero app\Adivinar numero app\Adivinar numero app\obj\Debug\netstandard2.0\Adivinar numero app.dll
+C:\Users\ASUS\source\repos\Adivinar numero app\Adivinar numero app\Adivinar numero app\obj\Debug\netstandard2.0\ref\Adivinar numero app.dll
+C:\Users\ASUS\source\repos\Adivinar numero app\Adivinar numero app\Adivinar numero app\obj\Debug\netstandard2.0\Adivinar numero app.pdb
+C:\Users\ASUS\source\repos\Adivinar numero app\Adivinar numero app\Adivinar numero app\obj\Debug\netstandard2.0\Adivinar_Numero.xaml.g.cs
+C:\Users\ASUS\source\repos\Adivinar numero app\Adivinar numero app\Adivinar numero app\obj\Debug\netstandard2.0\Cumpleaños.xaml.g.cs

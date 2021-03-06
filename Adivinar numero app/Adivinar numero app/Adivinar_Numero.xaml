@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Adivinar_numero_app.Adivinar_Numero"
+             Visual="Material"
+             BackgroundColor="Black">
+    <ContentPage.Content>
+        
+        <StackLayout>
+            <Label Text="Piensa en un Número, Intentaré Adivinarlo"
+               FontAttributes="Bold"
+               FontSize="35"
+               HorizontalTextAlignment="Center"
+               TextColor="White"/>
+
+            <Label Text="Paso 1: Al numero que pensaste multiplicalo por 2"
+               FontAttributes="Bold"
+               FontSize="25"
+               HorizontalTextAlignment="Start"
+               TextColor="DarkGray"/>
+
+            <Label Text="Paso 2: Ahora al resultado sumale 8"
+               FontAttributes="Bold"
+               FontSize="25"
+               HorizontalTextAlignment="Start"
+               TextColor="DarkGray"/>
+
+            <Label Text="Paso 3: Por ultimo multiplicalo por 5"
+               FontAttributes="Bold"
+               FontSize="25"
+               HorizontalTextAlignment="Start"
+               TextColor="DarkGray"/>
+
+            <Entry Placeholder="Por último ingresa tu resultado aquí" 
+               x:Name="Resultado"
+               Keyboard="Numeric"
+               BackgroundColor="DarkGray"/>
+
+            <Entry Placeholder="El numero que estabas pensado es: " x:Name="Tunumero"
+               IsEnabled="False"
+               BackgroundColor="DarkGray"/>
+
+            <Button Text="Calcular" FontSize="20"
+                Clicked="Button_Clicked"
+                BackgroundColor="DarkGray"
+                TextColor="Black"/>
+        </StackLayout>
+        
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\Adivinar numero app\Adivinar numero app\Adivinar numero app\bin\Debug\netstandard2.0\Juegos Adivinar.deps.json
+C:\Users\ASUS\source\repos\Adivinar numero app\Adivinar numero app\Adivinar numero app\bin\Debug\netstandard2.0\Juegos Adivinar.dll
+C:\Users\ASUS\source\repos\Adivinar numero app\Adivinar numero app\Adivinar numero app\bin\Debug\netstandard2.0\ref\Juegos Adivinar.dll
+C:\Users\ASUS\source\repos\Adivinar numero app\Adivinar numero app\Adivinar numero app\bin\Debug\netstandard2.0\Juegos Adivinar.pdb
+C:\Users\ASUS\source\repos\Adivinar numero app\Adivinar numero app\Adivinar numero app\obj\Debug\netstandard2.0\Juegos Adivinar.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Adivinar numero app\Adivinar numero app\Adivinar numero app\obj\Debug\netstandard2.0\Adivinar_Numero.xaml.g.cs
+C:\Users\ASUS\source\repos\Adivinar numero app\Adivinar numero app\Adivinar numero app\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ASUS\source\repos\Adivinar numero app\Adivinar numero app\Adivinar numero app\obj\Debug\netstandard2.0\Cumpleaños.xaml.g.cs
+C:\Users\ASUS\source\repos\Adivinar numero app\Adivinar numero app\Adivinar numero app\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ASUS\source\repos\Adivinar numero app\Adivinar numero app\Adivinar numero app\obj\Debug\netstandard2.0\Juegos Adivinar.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Adivinar numero app\Adivinar numero app\Adivinar numero app\obj\Debug\netstandard2.0\Juegos Adivinar.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Adivinar numero app\Adivinar numero app\Adivinar numero app\obj\Debug\netstandard2.0\Juegos Adivinar.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Adivinar numero app\Adivinar numero app\Adivinar numero app\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ASUS\source\repos\Adivinar numero app\Adivinar numero app\Adivinar numero app\obj\Debug\netstandard2.0\Juegos Adivinar.dll
+C:\Users\ASUS\source\repos\Adivinar numero app\Adivinar numero app\Adivinar numero app\obj\Debug\netstandard2.0\ref\Juegos Adivinar.dll
+C:\Users\ASUS\source\repos\Adivinar numero app\Adivinar numero app\Adivinar numero app\obj\Debug\netstandard2.0\Juegos Adivinar.pdb

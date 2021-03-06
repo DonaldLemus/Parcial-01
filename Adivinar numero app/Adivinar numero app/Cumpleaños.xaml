@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Adivinar_numero_app.Cumpleaños"
+             Visual="Material"
+             BackgroundColor="Black">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Adivinaré tu Fecha de Cumpleaños"
+                   FontAttributes="Bold"
+                   FontSize="35"
+                   HorizontalTextAlignment="Center"
+                   TextColor="White"/>
+
+            <Label Text="Paso 1: Piensa en tu diá de nacimiento y multiplicalo por 20"
+                   FontAttributes="Bold"
+                   FontSize="25"
+                   HorizontalTextAlignment="Start"
+                   TextColor="DarkGray"/>
+
+            <Label Text="Paso 2: Al resultado sumale 73"
+                   FontAttributes="Bold"
+                   FontSize="25"
+                   HorizontalTextAlignment="Start"
+                   TextColor="DarkGray"/>
+
+            <Label Text="Paso 3: Ahora multiplicalo por 5"
+                   FontAttributes="Bold"
+                   FontSize="25"
+                   HorizontalTextAlignment="Start"
+                   TextColor="DarkGray"/>
+
+            <Label Text="Paso 4: Sumale la fecha del mes de tu nacimiento"
+                   FontAttributes="Bold"
+                   FontSize="25"
+                   HorizontalTextAlignment="Start"
+                   TextColor="DarkGray"/>
+
+            <Entry Placeholder="Por ultimo ingresa tu resultado aquí" 
+                   x:Name="resultado" Keyboard="Numeric"
+                   BackgroundColor="DarkGray"/>
+
+            <Entry Placeholder="Tu Fecha de Cumpleaños es:"
+                   x:Name="cumple" IsEnabled="False"
+                   BackgroundColor="DarkGray"/>
+
+            <Button Text="Calcular" FontSize="20"
+                    Clicked="Button_Clicked"
+                    BackgroundColor="DarkGray"
+                    TextColor="Black"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
